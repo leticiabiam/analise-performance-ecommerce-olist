@@ -17,7 +17,7 @@ O objetivo desta análise foi responder a duas perguntas críticas da diretoria 
 
 ---
 
-## 📈 Principais Insights Extraídos (Mentalidade de Negócio)
+##  Principais Insights Extraídos (Mentalidade de Negócio)
 
 * **Performance Financeira Geral:** O e-commerce movimentou um faturamento total de **R\$ 15.422.461,77** no período analisado, operando com um Ticket Médio de **R\$ 153,07** por pedido.
 * **Identificação de Clientes VIP:** Mapeei a receita acumulada por ID único de cliente, isolando os maiores compradores da plataforma. Essa segmentação permite que o time de CRM execute campanhas de fidelização exclusivas para reter a fatia de consumidores que gera o maior valor de ciclo de vida (LTV) para o negócio.
